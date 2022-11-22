@@ -1,0 +1,4 @@
+Get phrase guess
+For each character in the phrase check if it is a letter that has been guessed so far
+If not print add underscore to string
+print string of total guess so far
