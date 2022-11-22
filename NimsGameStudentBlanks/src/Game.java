@@ -16,7 +16,7 @@ public class Game {
 
     //Allows a player to take a specific amount of pieces.
     //Adds the amount of pieces taken to the user's score.
-    public int takePiece(){
+    public int takePiece() {
         System.out.println("There are "+ pieces+" remaining!");
         System.out.println("It is your turn, " + currentPlayer.getName());
         int take;
